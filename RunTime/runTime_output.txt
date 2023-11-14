@@ -1,0 +1,28 @@
+To Process 100 number of plots in a signal, it took
+DFT: 0.00071901 seconds
+FFT: 4.7054e-05 seconds
+========================================================================
+To Process 500 number of plots in a signal, it took
+DFT: 0.0179095 seconds
+FFT: 0.000225565 seconds
+========================================================================
+To Process 1000 number of plots in a signal, it took
+DFT: 0.0625028 seconds
+FFT: 0.000523724 seconds
+============================-============================================
+To Process 5000 number of plots in a signal, it took
+DFT: 1.60742 seconds
+FFT: 0.00330748 seconds
+========================================================================
+To Process 10000 number of plots in a signal, it took
+DFT: 6.44574 seconds
+FFT: 0.00728806 seconds
+========================================================================
+To Process 25000 number of plots in a signal, it took
+DFT: 40.5506 seconds
+FFT: 0.0198269 seconds
+========================================================================
+To Process 50000 number of plots in a signal, it took
+DFT: 166.603 seconds
+FFT: 0.0418298 seconds
+========================================================================
