@@ -2,7 +2,7 @@
 
 Welcome to my analysis of the Discrete Fourier Transform (DFT) and Fast Fourier Transform (FFT)!
 
-In this folder, you can find a research paper describing how these different algorithms work. Additionally, there are (Code, Tests, and Runtime) folders you can explore.
+In this Repo, you can find a research paper describing how these different algorithms work. Additionally, there are (Code, Tests, and Runtime) folders you can explore.
 
 ## Code
 This folder contains all my code for the different algorithms. I implemented the DFT, FFT, their inverses, and Python scripts to read and construct the frequency waves.
